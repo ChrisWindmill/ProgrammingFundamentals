@@ -5,7 +5,7 @@
 
 # User-specific files
 *.rsuser
-*.suo
+#*.suo
 *.user
 *.userosscache
 *.sln.docstates
@@ -122,7 +122,7 @@ ipch/
 *.ncb
 *.opendb
 *.opensdf
-*.sdf
+#*.sdf
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
