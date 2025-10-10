@@ -24,6 +24,7 @@
     <ProjectGuid>{81093235-be39-4001-b295-b125a61e295e}</ProjectGuid>
     <RootNamespace>My15StandardLibraryothers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16 Standard Library - others</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

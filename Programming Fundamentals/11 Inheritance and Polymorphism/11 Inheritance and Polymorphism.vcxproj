@@ -24,6 +24,7 @@
     <ProjectGuid>{89a5118a-1ddf-420c-b5ee-f8853e7e684a}</ProjectGuid>
     <RootNamespace>My11InheritanceandPolymorphism</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12 Inheritance and Polymorphism</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

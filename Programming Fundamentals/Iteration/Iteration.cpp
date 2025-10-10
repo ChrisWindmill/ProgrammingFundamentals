@@ -1,10 +1,35 @@
 // Iteration.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+#include "../SplashScreen.h"
 #include <iostream>
 
 int main()
 {
+    displaySplashScreen("Iteration");
+
+    // While loop - count and display 1-10
+    int x = 1;
+    while (x <= 10)
+    {
+        std::cout << x << std::endl;
+        x = x + 1;
+    }
+
+    // Do While loop - count and display 1-10
+    int y = 1;
+    do
+    {
+        y = y + 1;
+        std::cout << y << std::endl;
+    } while (y <= 10);
+    
+    // For loop - count and display 1-10
+    for (int i = 1; i <= 10; i++)
+    {
+        std::cout << i << std::endl;
+    }
+
+
     std::cout << "Hello World!\n";
 }
 
